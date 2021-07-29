@@ -1,1 +1,1 @@
-# NearFi-PCB
+# PCB for NearFi project
