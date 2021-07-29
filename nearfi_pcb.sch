@@ -5,9 +5,9 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "NearFi"
-Date "2021-05-17"
+Date "2021-07-29"
 Rev "2"
-Comp "bitec"
+Comp ""
 Comment1 ""
 Comment2 ""
 Comment3 ""
